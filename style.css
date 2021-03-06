@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.announcement {
+    display: inline;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;   
+}
+marquee {
+    color: white;
+    background-color: deepskyblue;
+}
